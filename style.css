@@ -1,0 +1,17 @@
+.box {
+  width: 50%;
+}
+.one {
+  background-color: #f248a3;
+  height: 80px;
+  margin-bottom: 50px;
+}
+.two {
+  background-color: #db2970;
+  height: 80px;
+  margin-top: 40px;
+}
+.three {
+  background-color: #51e317;
+  height: 80px;
+}
